@@ -1,0 +1,18 @@
+newmtl WhiteSphere 
+Ns 100
+Kd 0.40 0.40 0.40
+Ks 0.10 0.10 0.10
+illum 3
+
+newmtl Moon 
+Ns 2
+Kd 0.20 0.20 0.20
+Ks 0.10 0.10 0.10
+illum 3
+map_Kd moon.png
+
+newmtl Knot
+Ns 3
+Kd 0.15 0.50 0.00
+Ks 0.10 0.10 0.10
+illum 3

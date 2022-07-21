@@ -1,0 +1,54 @@
+# Blender MTL File: 'untitled_03.blend'
+# Material Count: 8
+
+newmtl Cap
+Ns 40
+Kd 0.60 0.60 0.60
+Ks 0.10 0.10 0.10
+illum 3
+
+newmtl Floor
+Ns 500
+Kd 0.00 0.00 0.00
+Ks 0.40 0.40 0.40
+illum 3
+
+newmtl Glass
+Ns 128 
+Kd 0.000 0.000 0.000
+Ks 0.150 0.075 0.050
+Kr 0.800 0.400 0.267
+Ni 1.45
+illum 6
+
+newmtl Paper
+Ns 1
+Kd 0.376 0.315 0.200
+Ks 0.100 0.100 0.100
+illum 3
+map_Kd label.jpg
+
+# newmtl Pill1
+# Ns 6
+# Kd 0.65 0.65 0.65
+# Ks 0.10 0.10 0.10
+# illum 3
+
+newmtl Pill2
+Ns 6
+Kd 0.050 0.166 0.673
+Ks 0.100 0.100 0.100
+illum 3
+map_Kd heart.png
+
+newmtl PlasticBlack
+Ns 64
+Kd 0.003 0.003 0.003
+Ks 0.100 0.100 0.100
+illum 3
+
+newmtl Suit
+Ns 2.5
+Kd 0.683 0.025 0.106
+Ks 0.100 0.100 0.100
+illum 3
